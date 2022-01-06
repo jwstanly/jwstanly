@@ -4,4 +4,4 @@ I'm John Wright Stanly, a freshman at Georgia Tech from Jacksonville, Florida. B
 
 ![John Wright's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwstanly&count_private=true&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwstanly&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwstanly&layout=compact) -->
