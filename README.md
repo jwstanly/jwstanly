@@ -1,4 +1,4 @@
-### Hey yall 👋
+### Hey y'all 👋
 
 I'm John Wright Stanly, a freshman at Georgia Tech from Jacksonville, Florida. Before college, I took a gap year and started building Winsight, a livestreaming solution for youth sports. I enjoy full stack software engineering and commercial aviation. Learn more about me on my website jwstanly.com
 
